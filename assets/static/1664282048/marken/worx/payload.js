@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/worx", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/worx-akku-staubsauger-wx030-9-solo-worx-7743198-1.jpg":"\u002Fassets\u002Fimages\u002Fworx-akku-staubsauger-wx030-9-solo-worx-7743198-1.webp"}}],fetch:{},mutations:void 0});

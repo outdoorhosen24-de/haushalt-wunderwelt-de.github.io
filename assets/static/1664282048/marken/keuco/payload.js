@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/keuco", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/keuco-waescheleine-verchromt-ausziehbar-bis-28-m-keuco-5252630-1.jpg":"\u002Fassets\u002Fimages\u002Fkeuco-waescheleine-verchromt-ausziehbar-bis-28-m-keuco-5252630-1.webp"}}],fetch:{},mutations:void 0});

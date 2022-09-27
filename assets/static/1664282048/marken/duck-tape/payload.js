@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/duck-tape", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/duck-tape-r-original-gewebe-klebeband-silber-5-m-x-50-mm-duck-tape-4494399-1.jpg":"\u002Fassets\u002Fimages\u002Fduck-tape-r-original-gewebe-klebeband-silber-5-m-x-50-mm-duck-tape-4494399-1.webp"}}],fetch:{},mutations:void 0});

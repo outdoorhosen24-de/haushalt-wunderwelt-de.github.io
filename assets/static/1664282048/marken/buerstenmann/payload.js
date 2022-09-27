@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/buerstenmann", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/buerstenmann-bodenreinigungsset-4-teilig-verschiedene-farben-buerstenmann-1254978-1.jpg":"\u002Fassets\u002Fimages\u002Fbuerstenmann-bodenreinigungsset-4-teilig-verschiedene-farben-buerstenmann-1254978-1.webp"}}],fetch:{},mutations:void 0});
