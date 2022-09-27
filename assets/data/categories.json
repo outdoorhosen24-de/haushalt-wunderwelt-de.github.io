@@ -1,107 +1,184 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "klebebänder",
+        "name": "Klebebänder",
+        "slug": "klebebander",
+        "productCategory": "Klebebänder",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "kleber",
+        "name": "Kleber",
+        "slug": "kleber",
+        "productCategory": "Kleber",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "aufbewahrung & ordnung",
+        "name": "Aufbewahrung & Ordnung",
+        "slug": "aufbewahrung-ordnung",
+        "productCategory": "Aufbewahrung & Ordnung",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "regale & regalböden",
+        "name": "Regale & Regalböden",
+        "slug": "regale-regalboden",
+        "productCategory": "Regale & Regalböden",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "reinigung",
+        "name": "Reinigung",
+        "slug": "reinigung",
+        "productCategory": "Reinigung",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "reinigungsgeräte",
+        "name": "Reinigungsgeräte",
+        "slug": "reinigungsgerate",
+        "productCategory": "Reinigungsgeräte",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "reinigungsmittel & pflegemittel",
+        "name": "Reinigungsmittel & Pflegemittel",
+        "slug": "reinigungsmittel-pflegemittel",
+        "productCategory": "Reinigungsmittel & Pflegemittel",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "umzugskartons",
+        "name": "Umzugskartons",
+        "slug": "umzugskartons",
+        "productCategory": "Umzugskartons",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "anti-schimmel-produkte",
+        "name": "Anti-Schimmel-Produkte",
+        "slug": "anti-schimmel-produkte",
+        "productCategory": "Anti-Schimmel-Produkte",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "textile aufbewahrung",
+        "name": "Textile Aufbewahrung",
+        "slug": "textile-aufbewahrung",
+        "productCategory": "Textile Aufbewahrung",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "waschen & trocknen",
+        "name": "Waschen & Trocknen",
+        "slug": "waschen-trocknen",
+        "productCategory": "Waschen & Trocknen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "wäschespinnen",
+        "name": "Wäschespinnen",
+        "slug": "waschespinnen",
+        "productCategory": "Wäschespinnen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "wäscheständer",
+        "name": "Wäscheständer",
+        "slug": "waschestander",
+        "productCategory": "Wäscheständer",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "mülleimer",
+        "name": "Mülleimer",
+        "slug": "mulleimer",
+        "productCategory": "Mülleimer",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "aufbewahrungsboxen",
+        "name": "Aufbewahrungsboxen",
+        "slug": "aufbewahrungsboxen",
+        "productCategory": "Aufbewahrungsboxen",
+        "subCategories": []
+    },
+    {
+        "key": "leitern & tritte",
+        "name": "Leitern & Tritte",
+        "slug": "leitern-tritte",
+        "productCategory": "Leitern & Tritte",
+        "subCategories": []
+    },
+    {
+        "key": "staubsauger",
+        "name": "Staubsauger",
+        "slug": "staubsauger",
+        "productCategory": "Staubsauger",
+        "subCategories": []
+    },
+    {
+        "key": "handstaubsauger",
+        "name": "Handstaubsauger",
+        "slug": "handstaubsauger",
+        "productCategory": "Handstaubsauger",
+        "subCategories": []
+    },
+    {
+        "key": "müllbeutel",
+        "name": "Müllbeutel",
+        "slug": "mullbeutel",
+        "productCategory": "Müllbeutel",
+        "subCategories": []
+    },
+    {
+        "key": "tücher & schwämme",
+        "name": "Tücher & Schwämme",
+        "slug": "tucher-schwamme",
+        "productCategory": "Tücher & Schwämme",
+        "subCategories": []
+    },
+    {
+        "key": "bodenstaubsauger",
+        "name": "Bodenstaubsauger",
+        "slug": "bodenstaubsauger",
+        "productCategory": "Bodenstaubsauger",
+        "subCategories": []
+    },
+    {
+        "key": "bügelbretter",
+        "name": "Bügelbretter",
+        "slug": "bugelbretter",
+        "productCategory": "Bügelbretter",
+        "subCategories": []
+    },
+    {
+        "key": "wäschekörbe & wäschewannen",
+        "name": "Wäschekörbe & Wäschewannen",
+        "slug": "waschekorbe-waschewannen",
+        "productCategory": "Wäschekörbe & Wäschewannen",
+        "subCategories": []
+    },
+    {
+        "key": "bügeleisen & bügelstationen",
+        "name": "Bügeleisen & Bügelstationen",
+        "slug": "bugeleisen-bugelstationen",
+        "productCategory": "Bügeleisen & Bügelstationen",
+        "subCategories": []
+    },
+    {
+        "key": "staubsauger zubehör",
+        "name": "Staubsauger Zubehör",
+        "slug": "staubsauger-zubehor",
+        "productCategory": "Staubsauger Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "saugroboter",
+        "name": "Saugroboter",
+        "slug": "saugroboter",
+        "productCategory": "Saugroboter",
         "subCategories": []
     }
 ]
