@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/einhell", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einhell-power-x-change-akku-handstaubsauger-te-vc-18-li-solo-inkl-zubehoer-einhell-1304112-1.jpg":"\u002Fassets\u002Fimages\u002Feinhell-power-x-change-akku-handstaubsauger-te-vc-18-li-solo-inkl-zubehoer-einhell-1304112-1.webp"}}],fetch:{},mutations:void 0});

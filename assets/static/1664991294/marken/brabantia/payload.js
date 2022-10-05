@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/brabantia", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/brabantia-waeschespinne-lift-o-matic-50-meter-mit-zubehoer-brabantia-1623354-1.jpg":"\u002Fassets\u002Fimages\u002Fbrabantia-waeschespinne-lift-o-matic-50-meter-mit-zubehoer-brabantia-1623354-1.webp"}}],fetch:{},mutations:void 0});

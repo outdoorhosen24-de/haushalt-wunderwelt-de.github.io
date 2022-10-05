@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/baufan", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baufan-holzkaltleim-250-g-baufan-1619097-1.jpg":"\u002Fassets\u002Fimages\u002Fbaufan-holzkaltleim-250-g-baufan-1619097-1.webp"}}],fetch:{},mutations:void 0});

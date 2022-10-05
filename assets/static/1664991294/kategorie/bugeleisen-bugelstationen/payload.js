@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/bugeleisen-bugelstationen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/severin-reise-dampfbuegelautomat-ba-3234-severin-1580638-1.jpg":"\u002Fassets\u002Fimages\u002Fseverin-reise-dampfbuegelautomat-ba-3234-severin-1580638-1.webp"}}],fetch:{},mutations:void 0});

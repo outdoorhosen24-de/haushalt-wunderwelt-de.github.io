@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/loctite", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/loctite-60-sec-universalkleber-20-g-loctite-5771985-1.jpg":"\u002Fassets\u002Fimages\u002Floctite-60-sec-universalkleber-20-g-loctite-5771985-1.webp"}}],fetch:{},mutations:void 0});

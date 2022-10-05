@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/arvox", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/arvox-pro-reiniger-stein-beton-1-l-arvox-6534663-1.jpg":"\u002Fassets\u002Fimages\u002Farvox-pro-reiniger-stein-beton-1-l-arvox-6534663-1.webp"}}],fetch:{},mutations:void 0});
