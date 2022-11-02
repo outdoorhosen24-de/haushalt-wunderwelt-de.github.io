@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "haushalt-wunderwelt.de",
     "hostname": "https://www.haushalt-wunderwelt.de/",
     "email": "haushalt-wunderwelt.desurrealnetworks.io",
     "organization": "haushalt-wunderwelt.de",
     "logoText": "Haushalt-wunderwelt.de",
     "title": "Haushalt",
-    "subline": "Der Online Shop f\u00fcr Haushalt",
+    "subline": "Der Online Shop für Haushalt",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "8089625"
     ],
     "featuredCategories": [
-        "W\u00e4schest\u00e4nder",
+        "Wäscheständer",
         "Staubsauger",
-        "Reinigungsger\u00e4te",
+        "Reinigungsgeräte",
         "Aufbewahrungsboxen",
-        "Regale & Regalb\u00f6den",
-        "W\u00e4schespinnen"
+        "Regale & Regalböden",
+        "Wäschespinnen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Haushalt",
-        "featureText": "Das Gesch\u00e4ft ist sehr ordentlich und aufger\u00e4umt. Die Verk\u00e4uferin ist sehr freundlich und hilfsbereit. Sie haben eine gute Auswahl an Haushaltswaren.",
+        "featureText": "Das Geschäft ist sehr ordentlich und aufgeräumt. Die Verkäuferin ist sehr freundlich und hilfsbereit. Sie haben eine gute Auswahl an Haushaltswaren.",
         "index": {
             "title": "Haushaltswarenladen",
-            "metaDescription": "In unserem Haushalt Shop findest du alles, was du f\u00fcr ein gem\u00fctliches Zuhause brauchst. Von M\u00f6beln \u00fcber Dekoration bis hin zu Haushaltswaren.",
+            "metaDescription": "In unserem Haushalt Shop findest du alles, was du für ein gemütliches Zuhause brauchst. Von Möbeln über Dekoration bis hin zu Haushaltswaren.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Der Haushalt: Wie man richtig Haushalt f\u00fchrt",
-                    "text": "Der Haushalt ist ein wichtiger Teil unseres Lebens. Es ist der Ort, an dem wir uns aufhalten, um unsere t\u00e4glichen Aufgaben zu erledigen. Der Haushalt ist auch der Ort, an dem wir unsere Freizeit verbringen. Wir sollten also unseren Haushalt so gestalten, dass er uns dabei hilft, unsere Ziele zu erreichen.\n\nEin Haushalt besteht aus vielen verschiedenen R\u00e4umen. Jeder Raum hat seine eigenen Aufgaben und Funktionen. Zum Beispiel ist das Wohnzimmer der Ort, an dem wir uns entspannen und unsere Freizeit verbringen. Die K\u00fcche ist der Ort, an dem wir unsere Mahlzeiten zubereiten. Das Badezimmer ist der Ort, an dem wir uns waschen und unsere Hygiene pflegen.\n\nJeder Raum in unserem Haushalt hat seine eigenen M\u00f6bel und Einrichtungsgegenst\u00e4nde. Wir sollten also sorgf\u00e4ltig \u00fcberlegen, welche M\u00f6bel und Einrichtungsgegenst\u00e4nde wir in welchem Raum aufstellen. Zum Beispiel sollten wir in unserem Wohnzimmer bequeme Sitzm\u00f6bel aufstellen, damit wir uns dort entspannen k\u00f6nnen. In der K\u00fcche sollten wir praktische M\u00f6bel und Ger\u00e4te aufstellen, damit wir unsere Mahlzeiten schnell und einfach zubereiten k\u00f6nnen.\n\nWir sollten auch sorgf\u00e4ltig \u00fcberlegen, welche Farben wir in unserem Haushalt verwenden. Farben k\u00f6nnen unsere Stimmung beeinflussen. Zum Beispiel sollten wir in unse"
+                    "title": "Der Haushalt: Wie man richtig Haushalt führt",
+                    "text": "Der Haushalt ist ein wichtiger Teil unseres Lebens. Es ist der Ort, an dem wir uns aufhalten, um unsere täglichen Aufgaben zu erledigen. Der Haushalt ist auch der Ort, an dem wir unsere Freizeit verbringen. Wir sollten also unseren Haushalt so gestalten, dass er uns dabei hilft, unsere Ziele zu erreichen.\n\nEin Haushalt besteht aus vielen verschiedenen Räumen. Jeder Raum hat seine eigenen Aufgaben und Funktionen. Zum Beispiel ist das Wohnzimmer der Ort, an dem wir uns entspannen und unsere Freizeit verbringen. Die Küche ist der Ort, an dem wir unsere Mahlzeiten zubereiten. Das Badezimmer ist der Ort, an dem wir uns waschen und unsere Hygiene pflegen.\n\nJeder Raum in unserem Haushalt hat seine eigenen Möbel und Einrichtungsgegenstände. Wir sollten also sorgfältig überlegen, welche Möbel und Einrichtungsgegenstände wir in welchem Raum aufstellen. Zum Beispiel sollten wir in unserem Wohnzimmer bequeme Sitzmöbel aufstellen, damit wir uns dort entspannen können. In der Küche sollten wir praktische Möbel und Geräte aufstellen, damit wir unsere Mahlzeiten schnell und einfach zubereiten können.\n\nWir sollten auch sorgfältig überlegen, welche Farben wir in unserem Haushalt verwenden. Farben können unsere Stimmung beeinflussen. Zum Beispiel sollten wir in unse"
                 }
             ]
         },
         "shop": {
-            "title": "Haushalt Shop: Alles f\u00fcr Ihr Zuhause",
-            "metaDescription": "In unserem Shop findest du alles rund um das Thema Haushalt. Von K\u00fcchenutensilien \u00fcber Reinigungsmittel bis hin zu M\u00f6beln und Deko-Artikeln.",
+            "title": "Haushalt Shop: Alles für Ihr Zuhause",
+            "metaDescription": "In unserem Shop findest du alles rund um das Thema Haushalt. Von Küchenutensilien über Reinigungsmittel bis hin zu Möbeln und Deko-Artikeln.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Haushaltsger\u00e4ten",
-            "metaDescription": "Hersteller von Haushaltsger\u00e4ten. Wir bieten eine gro\u00dfe Auswahl an Haushaltsger\u00e4ten f\u00fcr jeden Bedarf.",
+            "title": "Hersteller von Haushaltsgeräten",
+            "metaDescription": "Hersteller von Haushaltsgeräten. Wir bieten eine große Auswahl an Haushaltsgeräten für jeden Bedarf.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "Haushalt: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl f\u00fcr Ihren Haushalt. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihren Haushalt. Jetzt online bestellen bei $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles f\u00fcr den Haushalt - Jetzt online kaufen | Jumbo",
-        "defaultMetaDescription": "$KATEGORIE - Alles f\u00fcr den Haushalt g\u00fcnstig online kaufen | Quelle.de",
+        "defaultTitle": "$KATEGORIE: Alles für den Haushalt - Jetzt online kaufen | Jumbo",
+        "defaultMetaDescription": "$KATEGORIE - Alles für den Haushalt günstig online kaufen | Quelle.de",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke f\u00fcr Haushaltsprodukte. Hier findest du alles f\u00fcr den t\u00e4glichen Gebrauch und mehr. K\u00fcchenutensilien, Geschirr, Gl\u00e4ser, Besteck, Handt\u00fccher, Bettw\u00e4sche und vieles mehr.",
+        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Haushaltsprodukte. Hier findest du alles für den täglichen Gebrauch und mehr. Küchenutensilien, Geschirr, Gläser, Besteck, Handtücher, Bettwäsche und vieles mehr.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
