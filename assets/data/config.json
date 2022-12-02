@@ -51,12 +51,15 @@
             "title": "Haushaltswarenladen",
             "metaDescription": "In unserem Haushalt Shop findest du alles, was du für ein gemütliches Zuhause brauchst. Von Möbeln über Dekoration bis hin zu Haushaltswaren.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Der Haushalt: Wie man richtig Haushalt führt",
-                    "text": "Der Haushalt ist ein wichtiger Teil unseres Lebens. Es ist der Ort, an dem wir uns aufhalten, um unsere täglichen Aufgaben zu erledigen. Der Haushalt ist auch der Ort, an dem wir unsere Freizeit verbringen. Wir sollten also unseren Haushalt so gestalten, dass er uns dabei hilft, unsere Ziele zu erreichen.\n\nEin Haushalt besteht aus vielen verschiedenen Räumen. Jeder Raum hat seine eigenen Aufgaben und Funktionen. Zum Beispiel ist das Wohnzimmer der Ort, an dem wir uns entspannen und unsere Freizeit verbringen. Die Küche ist der Ort, an dem wir unsere Mahlzeiten zubereiten. Das Badezimmer ist der Ort, an dem wir uns waschen und unsere Hygiene pflegen.\n\nJeder Raum in unserem Haushalt hat seine eigenen Möbel und Einrichtungsgegenstände. Wir sollten also sorgfältig überlegen, welche Möbel und Einrichtungsgegenstände wir in welchem Raum aufstellen. Zum Beispiel sollten wir in unserem Wohnzimmer bequeme Sitzmöbel aufstellen, damit wir uns dort entspannen können. In der Küche sollten wir praktische Möbel und Geräte aufstellen, damit wir unsere Mahlzeiten schnell und einfach zubereiten können.\n\nWir sollten auch sorgfältig überlegen, welche Farben wir in unserem Haushalt verwenden. Farben können unsere Stimmung beeinflussen. Zum Beispiel sollten wir in unse"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Der Haushalt: Wie man richtig Haushalt führt",
+                        "text": "Der Haushalt ist ein wichtiger Teil unseres Lebens. Es ist der Ort, an dem wir uns aufhalten, um unsere täglichen Aufgaben zu erledigen. Der Haushalt ist auch der Ort, an dem wir unsere Freizeit verbringen. Wir sollten also unseren Haushalt so gestalten, dass er uns dabei hilft, unsere Ziele zu erreichen.\n\nEin Haushalt besteht aus vielen verschiedenen Räumen. Jeder Raum hat seine eigenen Aufgaben und Funktionen. Zum Beispiel ist das Wohnzimmer der Ort, an dem wir uns entspannen und unsere Freizeit verbringen. Die Küche ist der Ort, an dem wir unsere Mahlzeiten zubereiten. Das Badezimmer ist der Ort, an dem wir uns waschen und unsere Hygiene pflegen.\n\nJeder Raum in unserem Haushalt hat seine eigenen Möbel und Einrichtungsgegenstände. Wir sollten also sorgfältig überlegen, welche Möbel und Einrichtungsgegenstände wir in welchem Raum aufstellen. Zum Beispiel sollten wir in unserem Wohnzimmer bequeme Sitzmöbel aufstellen, damit wir uns dort entspannen können. In der Küche sollten wir praktische Möbel und Geräte aufstellen, damit wir unsere Mahlzeiten schnell und einfach zubereiten können.\n\nWir sollten auch sorgfältig überlegen, welche Farben wir in unserem Haushalt verwenden. Farben können unsere Stimmung beeinflussen. Zum Beispiel sollten wir in unse"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Haushalt Shop: Alles für Ihr Zuhause",
