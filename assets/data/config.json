@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "haushalt-wunderwelt.de",
     "hostname": "https://www.haushalt-wunderwelt.de/",
     "email": "haushalt-wunderwelt.de@surrealnetworks.io",
     "organization": "haushalt-wunderwelt.de",
     "logoText": "Haushalt-wunderwelt.de",
-    "title": "Haushalt",
-    "subline": "Der Online Shop für Haushalt",
+    "title": "Haushaltswaren ",
+    "subline": "Der Online Shop für Struktur und Sauberkeit in deinem Zuhause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Haushalt",
-        "featureText": "Das Geschäft ist sehr ordentlich und aufgeräumt. Die Verkäuferin ist sehr freundlich und hilfsbereit. Sie haben eine gute Auswahl an Haushaltswaren.",
+        "featureText": "Bei uns findest du eine große Auswahl an Haushaltsprodukten, die dir helfen, Ordnung und Sauberkeit im Haushalt zu halten. Angefangen bei Pflege- und Reinigungsprodukten über Wäscheständer und Regale bis hin zu Staubsaugern, Bügeleisen und vielem mehr. Bei uns wirst Du fündig! Klick Dich einfach durch unser übersichtliches Sortiment.",
         "index": {
-            "title": "Haushaltswarenladen",
-            "metaDescription": "In unserem Haushalt Shop findest du alles, was du für ein gemütliches Zuhause brauchst. Von Möbeln über Dekoration bis hin zu Haushaltswaren.",
+            "title": "Haushaltswaren Online Shop",
+            "metaDescription": "Reinigungs- und Pflegemittel, Staubsauger, Bügelbretter und -eisen, Abfalleimer, Regale und Garderoben, Aufbewahrungsboxen und vieles mehr.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Haushalt Shop: Alles für Ihr Zuhause",
-            "metaDescription": "In unserem Shop findest du alles rund um das Thema Haushalt. Von Küchenutensilien über Reinigungsmittel bis hin zu Möbeln und Deko-Artikeln.",
+            "title": "Der Online Shop für Haushaltswaren",
+            "metaDescription": "Haushaltswaren einfach online kaufen. Ein Shop mit übersichtlichen Kategorien wie: Aufbewahrung und Ordnung, Reinigung, Waschen & Trocknen, Staubsauger etc.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Haushaltsgeräten",
-            "metaDescription": "Hersteller von Haushaltsgeräten. Wir bieten eine große Auswahl an Haushaltsgeräten für jeden Bedarf.",
+            "title": "Haushaltswaren von angesagten Herstellern",
+            "metaDescription": "Ausgewählte Qualitätsprodukte von Marken wie: BOSCH, Kärcher, Leifheit, Makita uvm. Kundenzufriedenheit durch langlebige Produkte. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Haushalt: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihren Haushalt. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT - bequem online bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - große Auswahl an Qualitätsprodukten von top Marken zum fairen Preis. Weitere angesagte Produkte in $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles für den Haushalt - Jetzt online kaufen | Jumbo",
-        "defaultMetaDescription": "$KATEGORIE - Alles für den Haushalt günstig online kaufen | Quelle.de",
+        "defaultTitle": "$KATEGORIE: Alles für Deinen Haushalt",
+        "defaultMetaDescription": "$KATEGORIE - Riesige Auswahl an Haushaltswaren - übersichtlich aufgelistet in Kategorien. Bei uns findest Du alles! Stöbere Dich durch unser Sortiment.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Haushaltsprodukte. Hier findest du alles für den täglichen Gebrauch und mehr. Küchenutensilien, Geschirr, Gläser, Besteck, Handtücher, Bettwäsche und vieles mehr.",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zum fairen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist die Marke, wenn es um Haushaltsprodukte geht. Unsere ausgewählten Produkte mit hohen Qualitätsstandards stehen für Langlebigkeit!",
         "defaultRobots": "index, follow",
         "brands": [
             {
