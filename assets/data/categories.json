@@ -2,7 +2,7 @@
     {
         "key": "klebebänder",
         "name": "Klebebänder",
-        "slug": "klebebander",
+        "slug": "klebebaender",
         "productCategory": "Klebebänder",
         "subCategories": []
     },
@@ -23,7 +23,7 @@
     {
         "key": "regale & regalböden",
         "name": "Regale & Regalböden",
-        "slug": "regale-regalboden",
+        "slug": "regale-regalboeden",
         "productCategory": "Regale & Regalböden",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "reinigungsgeräte",
         "name": "Reinigungsgeräte",
-        "slug": "reinigungsgerate",
+        "slug": "reinigungsgeraete",
         "productCategory": "Reinigungsgeräte",
         "subCategories": []
     },
@@ -79,21 +79,21 @@
     {
         "key": "wäschespinnen",
         "name": "Wäschespinnen",
-        "slug": "waschespinnen",
+        "slug": "waeschespinnen",
         "productCategory": "Wäschespinnen",
         "subCategories": []
     },
     {
         "key": "wäscheständer",
         "name": "Wäscheständer",
-        "slug": "waschestander",
+        "slug": "waeschestaender",
         "productCategory": "Wäscheständer",
         "subCategories": []
     },
     {
         "key": "mülleimer",
         "name": "Mülleimer",
-        "slug": "mulleimer",
+        "slug": "muelleimer",
         "productCategory": "Mülleimer",
         "subCategories": []
     },
@@ -128,14 +128,14 @@
     {
         "key": "müllbeutel",
         "name": "Müllbeutel",
-        "slug": "mullbeutel",
+        "slug": "muellbeutel",
         "productCategory": "Müllbeutel",
         "subCategories": []
     },
     {
         "key": "tücher & schwämme",
         "name": "Tücher & Schwämme",
-        "slug": "tucher-schwamme",
+        "slug": "tuecher-schwaemme",
         "productCategory": "Tücher & Schwämme",
         "subCategories": []
     },
@@ -149,28 +149,28 @@
     {
         "key": "bügelbretter",
         "name": "Bügelbretter",
-        "slug": "bugelbretter",
+        "slug": "buegelbretter",
         "productCategory": "Bügelbretter",
         "subCategories": []
     },
     {
         "key": "wäschekörbe & wäschewannen",
         "name": "Wäschekörbe & Wäschewannen",
-        "slug": "waschekorbe-waschewannen",
+        "slug": "waeschekoerbe-waeschewannen",
         "productCategory": "Wäschekörbe & Wäschewannen",
         "subCategories": []
     },
     {
         "key": "bügeleisen & bügelstationen",
         "name": "Bügeleisen & Bügelstationen",
-        "slug": "bugeleisen-bugelstationen",
+        "slug": "buegeleisen-buegelstationen",
         "productCategory": "Bügeleisen & Bügelstationen",
         "subCategories": []
     },
     {
         "key": "staubsauger zubehör",
         "name": "Staubsauger Zubehör",
-        "slug": "staubsauger-zubehor",
+        "slug": "staubsauger-zubehoer",
         "productCategory": "Staubsauger Zubehör",
         "subCategories": []
     },
