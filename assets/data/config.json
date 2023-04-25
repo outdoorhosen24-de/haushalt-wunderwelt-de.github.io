@@ -1,268 +1,271 @@
 {
-    "configIsReady": true,
-    "domain": "haushalt-wunderwelt.de",
-    "hostname": "https://www.haushalt-wunderwelt.de/",
-    "email": "haushalt-wunderwelt.de@surrealnetworks.io",
-    "organization": "haushalt-wunderwelt.de",
-    "logoText": "Haushalt-wunderwelt.de",
-    "title": "Haushaltswaren ",
-    "subline": "Der Online Shop für Struktur und Sauberkeit in deinem Zuhause",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "3659034",
-        "9396706",
-        "8089500",
-        "3524766",
-        "3991536",
-        "8067613"
-    ],
-    "winnerProducts": [
-        "8091951",
-        "2952133",
-        "8089625"
-    ],
-    "featuredCategories": [
-        "Wäscheständer",
-        "Staubsauger",
-        "Reinigungsgeräte",
-        "Aufbewahrungsboxen",
-        "Regale & Regalböden",
-        "Wäschespinnen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Haushalt",
-        "featureText": "Bei uns findest du eine große Auswahl an Haushaltsprodukten, die dir helfen, Ordnung und Sauberkeit im Haushalt zu halten. Angefangen bei Pflege- und Reinigungsprodukten über Wäscheständer und Regale bis hin zu Staubsaugern, Bügeleisen und vielem mehr. Bei uns wirst Du fündig! Klick Dich einfach durch unser übersichtliches Sortiment.",
-        "index": {
-            "title": "Haushaltswaren Online Shop",
-            "metaDescription": "Reinigungs- und Pflegemittel, Staubsauger, Bügelbretter und -eisen, Abfalleimer, Regale und Garderoben, Aufbewahrungsboxen und vieles mehr.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Haushalt-Wunderwelt.de",
-                        "text": "Herzlich willkommen bei Haushalt-Wunderwelt.de, Ihrem Online-Shop für alles rund ums Thema Haushalt. Wir bieten Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause ordentlich und sauber zu halten. Von Klebebändern und Kleber über Regale und Regalböden bis hin zu Reinigungsgeräten und Reinigungsmitteln - bei uns finden Sie alles, was Sie für ein ordentliches Zuhause benötigen. Außerdem bieten wir Ihnen auch Umzugskartons und Anti-Schimmel-Produkte sowie textile Aufbewahrungslösungen. Stöbern Sie jetzt in unserem Shop und entdecken Sie die vielen praktischen und nützlichen Haushaltprodukte, die wir für Sie bereithalten."
-                    },
-                    {
-                        "title": "Klebebänder im Online-Shop erhältlich",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Klebebändern. Ob für den Haushalt, für Bastelarbeiten oder für den professionellen Einsatz - bei uns finden Sie garantiert das richtige Klebeband. Wählen Sie aus einer breiten Palette an Farben und Größen, um Ihren individuellen Bedürfnissen gerecht zu werden. Mit unseren Klebebändern sind Sie bestens für alle Situationen gerüstet."
-                    },
-                    {
-                        "title": "Kleber für jeden Bedarf",
-                        "text": "In unserem Online-Shop finden Sie eine große Auswahl an Klebern für jeden Bedarf. Ob für den Haushalt, für Bastelarbeiten oder für den professionellen Einsatz - bei uns finden Sie garantiert den richtigen Kleber. Wählen Sie aus einer breiten Palette an Klebertypen, um Ihren individuellen Bedürfnissen gerecht zu werden. Mit unseren Klebern sind Sie bestens für alle Situationen gerüstet."
-                    },
-                    {
-                        "title": "Aufbewahrung & Ordnung für ein aufgeräumtes Zuhause",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an Aufbewahrungs- und Ordnungslösungen für ein aufgeräumtes Zuhause. Ob Regale, Regalböden, Körbe oder Boxen - bei uns finden Sie alles, was Sie für eine ordentliche Aufbewahrung benötigen. Wählen Sie aus einer breiten Palette an Größen und Farben, um Ihren individuellen Bedürfnissen gerecht zu werden. Mit unseren Aufbewahrungs- und Ordnungslösungen sorgen Sie für ein aufgeräumtes Zuhause."
-                    },
-                    {
-                        "title": "Regale & Regalböden",
-                        "text": "<a href=\"/kategorie/regale-regalboeden/\" title=\"Regale & Regalböden\">Regale & Regalböden</a> bieten eine praktische Aufbewahrungslösung für jeden Haushalt. Unsere Regale sind stabil und langlebig, so dass Sie sich keine Sorgen machen müssen, dass sie Ihre Gegenstände nicht tragen können. Mit unseren Regalböden können Sie einfach und bequem Ihre Gegenstände organisieren und finden, was Sie suchen. Stöbern Sie jetzt durch unsere große Auswahl an Regalen und Regalböden und finden Sie die perfekte Lösung für Ihre Aufbewahrungsbedürfnisse."
-                    },
-                    {
-                        "title": "Reinigung",
-                        "text": "<a href=\"/kategorie/reinigung/\" title=\"Reinigung\">Reinigung</a> ist wichtig, um ein hygienisches und sauberes Zuhause zu erhalten. Wir bieten eine große Auswahl an Reinigungsprodukten, einschließlich Reinigungsmittel, Reinigungsgeräte und Anti-Schimmel-Produkte, um Ihnen dabei zu helfen, Ihr Zuhause sauber und hygienisch zu halten. Wählen Sie aus unserer breiten Palette an Reinigungsprodukten, die Ihren Bedürfnissen entsprechen, und genießen Sie ein sauberes und hygienisches Zuhause."
-                    },
-                    {
-                        "title": "Reinigungsgeräte",
-                        "text": "<a href=\"/kategorie/reinigungsgeraete/\" title=\"Reinigungsgeräte\">Reinigungsgeräte</a> sind ein unverzichtbarer Teil jeder Haushaltsreinigung. Unsere Reinigungsgeräte sind einfach zu verwenden und effektiv, so dass Sie Ihr Zuhause schnell und einfach sauber halten können. Wählen Sie aus unserer Auswahl an Staubsaugern, Wischmops und anderen Reinigungsgeräten, um Ihr Zuhause blitzsauber zu halten. Stöbern Sie jetzt durch unser Angebot und finden Sie die Reinigungsgeräte, die Ihren Bedürfnissen entsprechen."
-                    },
-                    {
-                        "title": "Reinigungsmittel & Pflegemittel",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/reinigungsmittel-pflegemittel/\" title=\"Reinigungsmittel & Pflegemittel\">Reinigungsmittel & Pflegemittel</a> bietet Ihnen eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause sauber und gepflegt zu halten. Von Allzweckreiniger bis hin zu speziellen Pflegemitteln für bestimmte Oberflächen haben wir alles, was Sie brauchen. Stöbern Sie durch unser Sortiment und entdecken Sie Produkte von renommierten Marken zu günstigen Preisen."
-                    },
-                    {
-                        "title": "Umzugskartons",
-                        "text": "Bei einem Umzug sind robuste und praktische <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> unerlässlich. In unserer Kategorie Umzugskartons finden Sie eine große Auswahl an verschiedenen Größen und Stärken, damit Sie all Ihre Gegenstände sicher und sorgfältig verpacken können. Schauen Sie sich jetzt um und bestellen Sie die Umzugskartons, die am besten zu Ihren Bedürfnissen passen."
-                    },
-                    {
-                        "title": "Anti-Schimmel-Produkte",
-                        "text": "Schimmel kann in jedem Zuhause auftreten und ist nicht nur unschön, sondern auch gesundheitsschädlich. In unserer Kategorie <a href=\"/kategorie/anti-schimmel-produkte/\" title=\"Anti-Schimmel-Produkte\">Anti-Schimmel-Produkte</a> finden Sie eine große Auswahl an Produkten, die Ihnen dabei helfen, Schimmelbildung vorzubeugen und bereits vorhandenen Schimmel zu entfernen. Von Schimmelentferner bis hin zu Feuchtigkeitsabsorbern haben wir alles, was Sie brauchen, um ein gesundes Zuhause zu erhalten."
-                    },
-                    {
-                        "title": "Textile Aufbewahrung",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a> finden Sie alles, was Sie für die ordentliche Verwahrung Ihrer Textilien benötigen. Von praktischen Aufbewahrungstaschen bis hin zu stilvollen Aufbewahrungskörben – hier werden Sie fündig. Überzeugen Sie sich selbst von unserem vielfältigen Angebot an hochwertigen Textilaufbewahrungsprodukten."
-                    },
-                    {
-                        "title": "Waschen & Trocknen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/waschen-trocknen/\" title=\"Waschen & Trocknen\">Waschen & Trocknen</a> finden Sie alles, was Sie für eine effektive Reinigung Ihrer Kleidung und Textilien benötigen. Von Waschmitteln bis hin zu Trocknerbällen – hier werden Sie fündig. Überzeugen Sie sich selbst von unserem vielfältigen Angebot an hochwertigen Reinigungsprodukten."
-                    },
-                    {
-                        "title": "Wäschespinnen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/waeschespinnen/\" title=\"Wäschespinnen\">Wäschespinnen</a> finden Sie alles, was Sie für eine effektive Trocknung Ihrer Wäsche benötigen. Von Wäschespinnen bis hin zu Wäscheständern – hier werden Sie fündig. Überzeugen Sie sich selbst von unserem vielfältigen Angebot an hochwertigen Trocknungsprodukten."
-                    },
-                    {
-                        "title": "Wäscheständer - organisieren Sie Ihre Wäsche effektiv",
-                        "text": "Wäscheständer sind ein unverzichtbares Utensil in jedem Haushalt. Sie bieten eine praktische Möglichkeit, um Wäsche aufzuhängen und zu trocknen. Auf unserer Website finden Sie eine große Auswahl an Wäscheständern in verschiedenen Größen und Materialien, damit Sie die perfekte Lösung für Ihren Haushalt finden. Stöbern Sie durch unser Angebot und finden Sie den idealen Wäscheständer, der Ihren Bedürfnissen entspricht."
-                    },
-                    {
-                        "title": "Mülleimer - ordentlich und hygienisch entsorgen",
-                        "text": "Ein Mülleimer ist ein wichtiger Bestandteil jeder Wohnung. Er erleichtert das Entsorgen von Abfällen und sorgt für eine hygienische und ordentliche Entsorgung. Auf unserer Website finden Sie eine breite Auswahl an Mülleimern in verschiedenen Größen und Farben. Wir bieten Mülleimer mit verschiedenen Funktionen wie Deckel, Pedal oder Touch-System. Stöbern Sie durch unser Angebot und finden Sie den perfekten Mülleimer für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Aufbewahrungsboxen - praktische Lösungen für mehr Ordnung",
-                        "text": "Aufbewahrungsboxen sind eine praktische Lösung, um Gegenstände ordentlich und platzsparend zu verstauen. Auf unserer Website finden Sie eine große Auswahl an Aufbewahrungsboxen in verschiedenen Größen und Farben. Ob für Kleidung, Spielzeug oder Haushaltsgegenstände - wir haben die passende Aufbewahrungsbox für Sie. Stöbern Sie durch unser Angebot und finden Sie die ideale Lösung für mehr Ordnung in Ihrem Haushalt."
-                    },
-                    {
-                        "title": "Leitern & Tritte",
-                        "text": "Sie benötigen eine Leiter oder einen Tritt für den täglichen Gebrauch im Haushalt oder für eine Reinigung auf höheren Regalen? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine große Auswahl an hochwertigen Leitern und Tritten in verschiedenen Größen und Materialien. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Staubsauger",
-                        "text": "Ein sauberer Haushalt beginnt mit einem guten <a href=\"/kategorie/staubsauger/\" title=\"Staubsauger\">Staubsauger</a>. Wir bieten Ihnen eine Vielzahl an Staubsaugern in verschiedenen Größen und Ausführungen. Ob Sie einen Bodenstaubsauger oder einen Handstaubsauger benötigen, bei uns werden Sie fündig. Wir legen großen Wert auf Qualität und bieten Ihnen daher nur Produkte von namhaften Herstellern an. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Staubsauger für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Handstaubsauger",
-                        "text": "Sie suchen einen praktischen und leistungsstarken <a href=\"/kategorie/handstaubsauger/\" title=\"Handstaubsauger\">Handstaubsauger</a> für den täglichen Gebrauch? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine große Auswahl an Handstaubsaugern von namhaften Herstellern. Ob für kleine Reinigungsarbeiten oder für unterwegs, mit einem Handstaubsauger sind Sie immer auf der sicheren Seite. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Handstaubsauger für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Kategorie: Müllbeutel",
-                        "text": "Müllbeutel sind ein unverzichtbares Accessoire im Haushalt. Wir bieten Ihnen eine große Auswahl an Müllbeuteln in verschiedenen Größen und Materialien, damit Sie den für Ihre Bedürfnisse passenden Müllbeutel finden. Ob für den täglichen Gebrauch oder für den Einsatz bei größeren Projekten, bei uns finden Sie den perfekten Müllbeutel. Stöbern Sie jetzt durch unser Angebot und finden Sie den Müllbeutel, der zu Ihnen passt."
-                    },
-                    {
-                        "title": "Kategorie: Tücher & Schwämme",
-                        "text": "Tücher und Schwämme sind ein unverzichtbarer Teil jeder Haushaltung. Wir bieten Ihnen eine große Auswahl an Tüchern und Schwämmen in verschiedenen Größen, Materialien und Farben, damit Sie den für Ihre Bedürfnisse passenden Artikel finden. Ob zum Reinigen, Trocknen oder Polieren, bei uns finden Sie das richtige Tuch oder den richtigen Schwamm. Stöbern Sie jetzt durch unser Angebot und finden Sie das Tuch oder den Schwamm, der zu Ihnen passt."
-                    },
-                    {
-                        "title": "Kategorie: Bodenstaubsauger",
-                        "text": "Bodenstaubsauger sind ein unverzichtbares Reinigungsgerät im Haushalt. Wir bieten Ihnen eine große Auswahl an Bodenstaubsaugern in verschiedenen Ausführungen, damit Sie den für Ihre Bedürfnisse passenden Bodenstaubsauger finden. Ob für Hartböden oder Teppiche, bei uns finden Sie den perfekten Bodenstaubsauger. Stöbern Sie jetzt durch unser Angebot und finden Sie den Bodenstaubsauger, der zu Ihnen passt."
-                    },
-                    {
-                        "title": "Bügelbretter",
-                        "text": "<a href=\"/kategorie/buegelbretter/\" title=\"Bügelbretter\">Bügelbretter</a> sind ein unverzichtbares Utensil in jedem Haushalt. In unserem Online-Shop haushalt-wunderwelt.de bieten wir Ihnen eine breite Auswahl an Bügelbrettern in unterschiedlichen Größen und Ausführungen. Von klappbaren Bügelbrettern bis hin zu professionellen Bügelstationen finden Sie bei uns das perfekte Bügelbrett für Ihre Bedürfnisse. Überzeugen Sie sich selbst von unserem umfassenden Angebot und bestellen Sie noch heute Ihr neues Bügelbrett."
-                    },
-                    {
-                        "title": "Wäschekörbe & Wäschewannen",
-                        "text": "In unserem Online-Shop haushalt-wunderwelt.de finden Sie eine große Auswahl an Wäschekörben und Wäschewannen. Unsere Produkte sind in verschiedenen Größen und Farben erhältlich, so dass Sie genau das finden werden, was Sie für Ihren Haushalt benötigen. Ob Sie einen Wäschekorb für Ihr Schlafzimmer oder eine Wäschewanne für Ihr Badezimmer suchen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Angebot und bestellen Sie Ihre neue Wäscheaufbewahrung bequem online."
-                    },
-                    {
-                        "title": "Bügeleisen & Bügelstationen",
-                        "text": "Bügeleisen und Bügelstationen gehören ebenfalls zu den wichtigsten Utensilien im Haushalt. In unserem Online-Shop haushalt-wunderwelt.de bieten wir Ihnen eine große Auswahl an Bügeleisen und Bügelstationen in unterschiedlichen Ausführungen und Leistungsklassen. Ob Sie ein klassisches Bügeleisen oder eine professionelle Bügelstation benötigen, bei uns werden Sie fündig. Überzeugen Sie sich selbst von unserem Angebot und bestellen Sie noch heute Ihr neues Bügeleisen oder Ihre Bügelstation."
-                    },
-                    {
-                        "title": "Staubsauger Zubehör für eine effizientere Reinigung",
-                        "text": "Mit dem richtigen Staubsauger Zubehör kann man seine Reinigungsarbeiten im Haushalt einfacher und effizienter gestalten. Bei Haushalt-Wunderwelt.de finden Sie eine große Auswahl an Zubehör für Ihren Staubsauger, wie z.B. Ersatzteile, Düsen und Filter. Stöbern Sie jetzt durch unsere Produkte und finden Sie das passende Zubehör für Ihren Staubsauger."
-                    },
-                    {
-                        "title": "Saugroboter für eine bequeme Reinigung",
-                        "text": "Lassen Sie sich Ihre Reinigungsarbeiten im Haushalt von einem Saugroboter abnehmen. Bei Haushalt-Wunderwelt.de finden Sie eine große Auswahl an Saugrobotern, die Ihnen die Reinigung erleichtern werden. Ob für Hartböden oder Teppiche, wir haben den passenden Saugroboter für Sie. Entdecken Sie jetzt die Vorteile eines Saugroboters."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Online Shop für Haushaltswaren",
-            "metaDescription": "Haushaltswaren einfach online kaufen. Ein Shop mit übersichtlichen Kategorien wie: Aufbewahrung und Ordnung, Reinigung, Waschen & Trocknen, Staubsauger etc.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Haushaltswaren von angesagten Herstellern",
-            "metaDescription": "Ausgewählte Qualitätsprodukte von Marken wie: BOSCH, Kärcher, Leifheit, Makita uvm. Kundenzufriedenheit durch langlebige Produkte. ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - bequem online bestellen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - große Auswahl an Qualitätsprodukten von top Marken zum fairen Preis. Weitere angesagte Produkte in $KATEGORIE!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "haushalt-wunderwelt.de",
+  "hostname": "https://www.haushalt-wunderwelt.de/",
+  "email": "haushalt-wunderwelt.de@surrealnetworks.io",
+  "organization": "haushalt-wunderwelt.de",
+  "logoText": "Haushalt-wunderwelt.de",
+  "title": "Haushaltswaren ",
+  "subline": "Der Online Shop f\u00fcr Struktur und Sauberkeit in deinem Zuhause",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "3659034",
+    "9396706",
+    "8089500",
+    "3524766",
+    "3991536",
+    "8067613"
+  ],
+  "winnerProducts": [
+    "8091951",
+    "2952133",
+    "8089625"
+  ],
+  "featuredCategories": [
+    "W\u00e4schest\u00e4nder",
+    "Staubsauger",
+    "Reinigungsger\u00e4te",
+    "Aufbewahrungsboxen",
+    "Regale & Regalb\u00f6den",
+    "W\u00e4schespinnen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Haushalt",
+    "featureText": "Bei uns findest du eine gro\u00dfe Auswahl an Haushaltsprodukten, die dir helfen, Ordnung und Sauberkeit im Haushalt zu halten. Angefangen bei Pflege- und Reinigungsprodukten \u00fcber W\u00e4schest\u00e4nder und Regale bis hin zu Staubsaugern, B\u00fcgeleisen und vielem mehr. Bei uns wirst Du f\u00fcndig! Klick Dich einfach durch unser \u00fcbersichtliches Sortiment.",
+    "index": {
+      "title": "Haushaltswaren Online Shop",
+      "metaDescription": "Reinigungs- und Pflegemittel, Staubsauger, B\u00fcgelbretter und -eisen, Abfalleimer, Regale und Garderoben, Aufbewahrungsboxen und vieles mehr.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Haushalt-Wunderwelt.de",
+            "text": "Herzlich willkommen bei Haushalt-Wunderwelt.de, Ihrem Online-Shop f\u00fcr alles rund ums Thema Haushalt. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause ordentlich und sauber zu halten. Von Klebeb\u00e4ndern und Kleber \u00fcber Regale und Regalb\u00f6den bis hin zu Reinigungsger\u00e4ten und Reinigungsmitteln - bei uns finden Sie alles, was Sie f\u00fcr ein ordentliches Zuhause ben\u00f6tigen. Au\u00dferdem bieten wir Ihnen auch Umzugskartons und Anti-Schimmel-Produkte sowie textile Aufbewahrungsl\u00f6sungen. St\u00f6bern Sie jetzt in unserem Shop und entdecken Sie die vielen praktischen und n\u00fctzlichen Haushaltprodukte, die wir f\u00fcr Sie bereithalten."
+          },
+          {
+            "title": "Klebeb\u00e4nder im Online-Shop erh\u00e4ltlich",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen Klebeb\u00e4ndern. Ob f\u00fcr den Haushalt, f\u00fcr Bastelarbeiten oder f\u00fcr den professionellen Einsatz - bei uns finden Sie garantiert das richtige Klebeband. W\u00e4hlen Sie aus einer breiten Palette an Farben und Gr\u00f6\u00dfen, um Ihren individuellen Bed\u00fcrfnissen gerecht zu werden. Mit unseren Klebeb\u00e4ndern sind Sie bestens f\u00fcr alle Situationen ger\u00fcstet."
+          },
+          {
+            "title": "Kleber f\u00fcr jeden Bedarf",
+            "text": "In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Klebern f\u00fcr jeden Bedarf. Ob f\u00fcr den Haushalt, f\u00fcr Bastelarbeiten oder f\u00fcr den professionellen Einsatz - bei uns finden Sie garantiert den richtigen Kleber. W\u00e4hlen Sie aus einer breiten Palette an Klebertypen, um Ihren individuellen Bed\u00fcrfnissen gerecht zu werden. Mit unseren Klebern sind Sie bestens f\u00fcr alle Situationen ger\u00fcstet."
+          },
+          {
+            "title": "Aufbewahrung & Ordnung f\u00fcr ein aufger\u00e4umtes Zuhause",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an Aufbewahrungs- und Ordnungsl\u00f6sungen f\u00fcr ein aufger\u00e4umtes Zuhause. Ob Regale, Regalb\u00f6den, K\u00f6rbe oder Boxen - bei uns finden Sie alles, was Sie f\u00fcr eine ordentliche Aufbewahrung ben\u00f6tigen. W\u00e4hlen Sie aus einer breiten Palette an Gr\u00f6\u00dfen und Farben, um Ihren individuellen Bed\u00fcrfnissen gerecht zu werden. Mit unseren Aufbewahrungs- und Ordnungsl\u00f6sungen sorgen Sie f\u00fcr ein aufger\u00e4umtes Zuhause."
+          },
+          {
+            "title": "Regale & Regalb\u00f6den",
+            "text": "<a href=\"/kategorie/regale-regalboeden/\" title=\"Regale & Regalb\u00f6den\">Regale & Regalb\u00f6den</a> bieten eine praktische Aufbewahrungsl\u00f6sung f\u00fcr jeden Haushalt. Unsere Regale sind stabil und langlebig, so dass Sie sich keine Sorgen machen m\u00fcssen, dass sie Ihre Gegenst\u00e4nde nicht tragen k\u00f6nnen. Mit unseren Regalb\u00f6den k\u00f6nnen Sie einfach und bequem Ihre Gegenst\u00e4nde organisieren und finden, was Sie suchen. St\u00f6bern Sie jetzt durch unsere gro\u00dfe Auswahl an Regalen und Regalb\u00f6den und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Aufbewahrungsbed\u00fcrfnisse."
+          },
+          {
+            "title": "Reinigung",
+            "text": "<a href=\"/kategorie/reinigung/\" title=\"Reinigung\">Reinigung</a> ist wichtig, um ein hygienisches und sauberes Zuhause zu erhalten. Wir bieten eine gro\u00dfe Auswahl an Reinigungsprodukten, einschlie\u00dflich Reinigungsmittel, Reinigungsger\u00e4te und Anti-Schimmel-Produkte, um Ihnen dabei zu helfen, Ihr Zuhause sauber und hygienisch zu halten. W\u00e4hlen Sie aus unserer breiten Palette an Reinigungsprodukten, die Ihren Bed\u00fcrfnissen entsprechen, und genie\u00dfen Sie ein sauberes und hygienisches Zuhause."
+          },
+          {
+            "title": "Reinigungsger\u00e4te",
+            "text": "<a href=\"/kategorie/reinigungsgeraete/\" title=\"Reinigungsger\u00e4te\">Reinigungsger\u00e4te</a> sind ein unverzichtbarer Teil jeder Haushaltsreinigung. Unsere Reinigungsger\u00e4te sind einfach zu verwenden und effektiv, so dass Sie Ihr Zuhause schnell und einfach sauber halten k\u00f6nnen. W\u00e4hlen Sie aus unserer Auswahl an Staubsaugern, Wischmops und anderen Reinigungsger\u00e4ten, um Ihr Zuhause blitzsauber zu halten. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die Reinigungsger\u00e4te, die Ihren Bed\u00fcrfnissen entsprechen."
+          },
+          {
+            "title": "Reinigungsmittel & Pflegemittel",
+            "text": "Unsere Kategorie <a href=\"/kategorie/reinigungsmittel-pflegemittel/\" title=\"Reinigungsmittel & Pflegemittel\">Reinigungsmittel & Pflegemittel</a> bietet Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Ihr Zuhause sauber und gepflegt zu halten. Von Allzweckreiniger bis hin zu speziellen Pflegemitteln f\u00fcr bestimmte Oberfl\u00e4chen haben wir alles, was Sie brauchen. St\u00f6bern Sie durch unser Sortiment und entdecken Sie Produkte von renommierten Marken zu g\u00fcnstigen Preisen."
+          },
+          {
+            "title": "Umzugskartons",
+            "text": "Bei einem Umzug sind robuste und praktische <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> unerl\u00e4sslich. In unserer Kategorie Umzugskartons finden Sie eine gro\u00dfe Auswahl an verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, damit Sie all Ihre Gegenst\u00e4nde sicher und sorgf\u00e4ltig verpacken k\u00f6nnen. Schauen Sie sich jetzt um und bestellen Sie die Umzugskartons, die am besten zu Ihren Bed\u00fcrfnissen passen."
+          },
+          {
+            "title": "Anti-Schimmel-Produkte",
+            "text": "Schimmel kann in jedem Zuhause auftreten und ist nicht nur unsch\u00f6n, sondern auch gesundheitssch\u00e4dlich. In unserer Kategorie <a href=\"/kategorie/anti-schimmel-produkte/\" title=\"Anti-Schimmel-Produkte\">Anti-Schimmel-Produkte</a> finden Sie eine gro\u00dfe Auswahl an Produkten, die Ihnen dabei helfen, Schimmelbildung vorzubeugen und bereits vorhandenen Schimmel zu entfernen. Von Schimmelentferner bis hin zu Feuchtigkeitsabsorbern haben wir alles, was Sie brauchen, um ein gesundes Zuhause zu erhalten."
+          },
+          {
+            "title": "Textile Aufbewahrung",
+            "text": "In unserer Kategorie <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a> finden Sie alles, was Sie f\u00fcr die ordentliche Verwahrung Ihrer Textilien ben\u00f6tigen. Von praktischen Aufbewahrungstaschen bis hin zu stilvollen Aufbewahrungsk\u00f6rben \u2013 hier werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserem vielf\u00e4ltigen Angebot an hochwertigen Textilaufbewahrungsprodukten."
+          },
+          {
+            "title": "Waschen & Trocknen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/waschen-trocknen/\" title=\"Waschen & Trocknen\">Waschen & Trocknen</a> finden Sie alles, was Sie f\u00fcr eine effektive Reinigung Ihrer Kleidung und Textilien ben\u00f6tigen. Von Waschmitteln bis hin zu Trocknerb\u00e4llen \u2013 hier werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserem vielf\u00e4ltigen Angebot an hochwertigen Reinigungsprodukten."
+          },
+          {
+            "title": "W\u00e4schespinnen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/waeschespinnen/\" title=\"W\u00e4schespinnen\">W\u00e4schespinnen</a> finden Sie alles, was Sie f\u00fcr eine effektive Trocknung Ihrer W\u00e4sche ben\u00f6tigen. Von W\u00e4schespinnen bis hin zu W\u00e4schest\u00e4ndern \u2013 hier werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserem vielf\u00e4ltigen Angebot an hochwertigen Trocknungsprodukten."
+          },
+          {
+            "title": "W\u00e4schest\u00e4nder - organisieren Sie Ihre W\u00e4sche effektiv",
+            "text": "W\u00e4schest\u00e4nder sind ein unverzichtbares Utensil in jedem Haushalt. Sie bieten eine praktische M\u00f6glichkeit, um W\u00e4sche aufzuh\u00e4ngen und zu trocknen. Auf unserer Website finden Sie eine gro\u00dfe Auswahl an W\u00e4schest\u00e4ndern in verschiedenen Gr\u00f6\u00dfen und Materialien, damit Sie die perfekte L\u00f6sung f\u00fcr Ihren Haushalt finden. St\u00f6bern Sie durch unser Angebot und finden Sie den idealen W\u00e4schest\u00e4nder, der Ihren Bed\u00fcrfnissen entspricht."
+          },
+          {
+            "title": "M\u00fclleimer - ordentlich und hygienisch entsorgen",
+            "text": "Ein M\u00fclleimer ist ein wichtiger Bestandteil jeder Wohnung. Er erleichtert das Entsorgen von Abf\u00e4llen und sorgt f\u00fcr eine hygienische und ordentliche Entsorgung. Auf unserer Website finden Sie eine breite Auswahl an M\u00fclleimern in verschiedenen Gr\u00f6\u00dfen und Farben. Wir bieten M\u00fclleimer mit verschiedenen Funktionen wie Deckel, Pedal oder Touch-System. St\u00f6bern Sie durch unser Angebot und finden Sie den perfekten M\u00fclleimer f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Aufbewahrungsboxen - praktische L\u00f6sungen f\u00fcr mehr Ordnung",
+            "text": "Aufbewahrungsboxen sind eine praktische L\u00f6sung, um Gegenst\u00e4nde ordentlich und platzsparend zu verstauen. Auf unserer Website finden Sie eine gro\u00dfe Auswahl an Aufbewahrungsboxen in verschiedenen Gr\u00f6\u00dfen und Farben. Ob f\u00fcr Kleidung, Spielzeug oder Haushaltsgegenst\u00e4nde - wir haben die passende Aufbewahrungsbox f\u00fcr Sie. St\u00f6bern Sie durch unser Angebot und finden Sie die ideale L\u00f6sung f\u00fcr mehr Ordnung in Ihrem Haushalt."
+          },
+          {
+            "title": "Leitern & Tritte",
+            "text": "Sie ben\u00f6tigen eine Leiter oder einen Tritt f\u00fcr den t\u00e4glichen Gebrauch im Haushalt oder f\u00fcr eine Reinigung auf h\u00f6heren Regalen? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Leitern und Tritten in verschiedenen Gr\u00f6\u00dfen und Materialien. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Ger\u00e4t f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Staubsauger",
+            "text": "Ein sauberer Haushalt beginnt mit einem guten <a href=\"/kategorie/staubsauger/\" title=\"Staubsauger\">Staubsauger</a>. Wir bieten Ihnen eine Vielzahl an Staubsaugern in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Ob Sie einen Bodenstaubsauger oder einen Handstaubsauger ben\u00f6tigen, bei uns werden Sie f\u00fcndig. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und bieten Ihnen daher nur Produkte von namhaften Herstellern an. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Staubsauger f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Handstaubsauger",
+            "text": "Sie suchen einen praktischen und leistungsstarken <a href=\"/kategorie/handstaubsauger/\" title=\"Handstaubsauger\">Handstaubsauger</a> f\u00fcr den t\u00e4glichen Gebrauch? Dann sind Sie bei uns genau richtig! Wir bieten Ihnen eine gro\u00dfe Auswahl an Handstaubsaugern von namhaften Herstellern. Ob f\u00fcr kleine Reinigungsarbeiten oder f\u00fcr unterwegs, mit einem Handstaubsauger sind Sie immer auf der sicheren Seite. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Handstaubsauger f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Kategorie: M\u00fcllbeutel",
+            "text": "M\u00fcllbeutel sind ein unverzichtbares Accessoire im Haushalt. Wir bieten Ihnen eine gro\u00dfe Auswahl an M\u00fcllbeuteln in verschiedenen Gr\u00f6\u00dfen und Materialien, damit Sie den f\u00fcr Ihre Bed\u00fcrfnisse passenden M\u00fcllbeutel finden. Ob f\u00fcr den t\u00e4glichen Gebrauch oder f\u00fcr den Einsatz bei gr\u00f6\u00dferen Projekten, bei uns finden Sie den perfekten M\u00fcllbeutel. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie den M\u00fcllbeutel, der zu Ihnen passt."
+          },
+          {
+            "title": "Kategorie: T\u00fccher & Schw\u00e4mme",
+            "text": "T\u00fccher und Schw\u00e4mme sind ein unverzichtbarer Teil jeder Haushaltung. Wir bieten Ihnen eine gro\u00dfe Auswahl an T\u00fcchern und Schw\u00e4mmen in verschiedenen Gr\u00f6\u00dfen, Materialien und Farben, damit Sie den f\u00fcr Ihre Bed\u00fcrfnisse passenden Artikel finden. Ob zum Reinigen, Trocknen oder Polieren, bei uns finden Sie das richtige Tuch oder den richtigen Schwamm. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie das Tuch oder den Schwamm, der zu Ihnen passt."
+          },
+          {
+            "title": "Kategorie: Bodenstaubsauger",
+            "text": "Bodenstaubsauger sind ein unverzichtbares Reinigungsger\u00e4t im Haushalt. Wir bieten Ihnen eine gro\u00dfe Auswahl an Bodenstaubsaugern in verschiedenen Ausf\u00fchrungen, damit Sie den f\u00fcr Ihre Bed\u00fcrfnisse passenden Bodenstaubsauger finden. Ob f\u00fcr Hartb\u00f6den oder Teppiche, bei uns finden Sie den perfekten Bodenstaubsauger. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie den Bodenstaubsauger, der zu Ihnen passt."
+          },
+          {
+            "title": "B\u00fcgelbretter",
+            "text": "<a href=\"/kategorie/buegelbretter/\" title=\"B\u00fcgelbretter\">B\u00fcgelbretter</a> sind ein unverzichtbares Utensil in jedem Haushalt. In unserem Online-Shop haushalt-wunderwelt.de bieten wir Ihnen eine breite Auswahl an B\u00fcgelbrettern in unterschiedlichen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Von klappbaren B\u00fcgelbrettern bis hin zu professionellen B\u00fcgelstationen finden Sie bei uns das perfekte B\u00fcgelbrett f\u00fcr Ihre Bed\u00fcrfnisse. \u00dcberzeugen Sie sich selbst von unserem umfassenden Angebot und bestellen Sie noch heute Ihr neues B\u00fcgelbrett."
+          },
+          {
+            "title": "W\u00e4schek\u00f6rbe & W\u00e4schewannen",
+            "text": "In unserem Online-Shop haushalt-wunderwelt.de finden Sie eine gro\u00dfe Auswahl an W\u00e4schek\u00f6rben und W\u00e4schewannen. Unsere Produkte sind in verschiedenen Gr\u00f6\u00dfen und Farben erh\u00e4ltlich, so dass Sie genau das finden werden, was Sie f\u00fcr Ihren Haushalt ben\u00f6tigen. Ob Sie einen W\u00e4schekorb f\u00fcr Ihr Schlafzimmer oder eine W\u00e4schewanne f\u00fcr Ihr Badezimmer suchen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Angebot und bestellen Sie Ihre neue W\u00e4scheaufbewahrung bequem online."
+          },
+          {
+            "title": "B\u00fcgeleisen & B\u00fcgelstationen",
+            "text": "B\u00fcgeleisen und B\u00fcgelstationen geh\u00f6ren ebenfalls zu den wichtigsten Utensilien im Haushalt. In unserem Online-Shop haushalt-wunderwelt.de bieten wir Ihnen eine gro\u00dfe Auswahl an B\u00fcgeleisen und B\u00fcgelstationen in unterschiedlichen Ausf\u00fchrungen und Leistungsklassen. Ob Sie ein klassisches B\u00fcgeleisen oder eine professionelle B\u00fcgelstation ben\u00f6tigen, bei uns werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von unserem Angebot und bestellen Sie noch heute Ihr neues B\u00fcgeleisen oder Ihre B\u00fcgelstation."
+          },
+          {
+            "title": "Staubsauger Zubeh\u00f6r f\u00fcr eine effizientere Reinigung",
+            "text": "Mit dem richtigen Staubsauger Zubeh\u00f6r kann man seine Reinigungsarbeiten im Haushalt einfacher und effizienter gestalten. Bei Haushalt-Wunderwelt.de finden Sie eine gro\u00dfe Auswahl an Zubeh\u00f6r f\u00fcr Ihren Staubsauger, wie z.B. Ersatzteile, D\u00fcsen und Filter. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihren Staubsauger."
+          },
+          {
+            "title": "Saugroboter f\u00fcr eine bequeme Reinigung",
+            "text": "Lassen Sie sich Ihre Reinigungsarbeiten im Haushalt von einem Saugroboter abnehmen. Bei Haushalt-Wunderwelt.de finden Sie eine gro\u00dfe Auswahl an Saugrobotern, die Ihnen die Reinigung erleichtern werden. Ob f\u00fcr Hartb\u00f6den oder Teppiche, wir haben den passenden Saugroboter f\u00fcr Sie. Entdecken Sie jetzt die Vorteile eines Saugroboters."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Alles für Deinen Haushalt",
-        "defaultMetaDescription": "$KATEGORIE - Riesige Auswahl an Haushaltswaren - übersichtlich aufgelistet in Kategorien. Bei uns findest Du alles! Stöbere Dich durch unser Sortiment.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Online Shop f\u00fcr Haushaltswaren",
+      "metaDescription": "Haushaltswaren einfach online kaufen. Ein Shop mit \u00fcbersichtlichen Kategorien wie: Aufbewahrung und Ordnung, Reinigung, Waschen & Trocknen, Staubsauger etc.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Markenprodukte zum fairen Preis",
-        "defaultMetaDescription": "$HERSTELLER ist die Marke, wenn es um Haushaltsprodukte geht. Unsere ausgewählten Produkte mit hohen Qualitätsstandards stehen für Langlebigkeit!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Haushalt",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Haushalt Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Haushalt Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Haushaltswaren von angesagten Herstellern",
+      "metaDescription": "Ausgew\u00e4hlte Qualit\u00e4tsprodukte von Marken wie: BOSCH, K\u00e4rcher, Leifheit, Makita uvm. Kundenzufriedenheit durch langlebige Produkte. ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - bequem online bestellen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - gro\u00dfe Auswahl an Qualit\u00e4tsprodukten von top Marken zum fairen Preis. Weitere angesagte Produkte in $KATEGORIE!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: Alles f\u00fcr Deinen Haushalt",
+    "defaultMetaDescription": "$KATEGORIE - Riesige Auswahl an Haushaltswaren - \u00fcbersichtlich aufgelistet in Kategorien. Bei uns findest Du alles! St\u00f6bere Dich durch unser Sortiment.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Markenprodukte zum fairen Preis",
+    "defaultMetaDescription": "$HERSTELLER ist die Marke, wenn es um Haushaltsprodukte geht. Unsere ausgew\u00e4hlten Produkte mit hohen Qualit\u00e4tsstandards stehen f\u00fcr Langlebigkeit!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Haushalt",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Haushalt Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Haushalt Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
